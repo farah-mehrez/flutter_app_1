@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "382029156647",
+    "firebase_url": "https://flutterstage-b8997-default-rtdb.firebaseio.com",
+    "project_id": "flutterstage-b8997",
+    "storage_bucket": "flutterstage-b8997.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382029156647:android:e9a8f7d0dcca8375525902",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsR6Z8EaURQhJVYQ--aDER7cn2dHF8QiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382029156647:android:e02ac549280e6680525902",
+        "android_client_info": {
+          "package_name": "com.example.student_profile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsR6Z8EaURQhJVYQ--aDER7cn2dHF8QiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382029156647:android:2fa9331fbf58b02b525902",
+        "android_client_info": {
+          "package_name": "com.firebaset.flutter_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsR6Z8EaURQhJVYQ--aDER7cn2dHF8QiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
